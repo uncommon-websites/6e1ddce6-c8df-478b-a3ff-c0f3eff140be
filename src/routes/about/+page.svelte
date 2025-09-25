@@ -11,16 +11,16 @@
 	// Constants
 	const values = [
 		{
-			title: "Innovation",
-			description: "Constantly challenging the status quo to create better solutions."
+			title: "Built for trust",
+			description: "We show up when we say we will. Whether it's scheduled service or an unplanned request, our teams deliver with precision and care—so you don't have to follow up twice."
 		},
 		{
-			title: "Integrity",
-			description: "Building trust through transparent actions and honest communication."
+			title: "Compliance is second nature",
+			description: "With real-time tracking, standardized protocols, and trained teams, we make it easy to keep every location inspection-ready while freeing your team from manual oversight."
 		},
 		{
-			title: "Impact",
-			description: "Measuring our success by the positive change we create for our clients."
+			title: "Efficiency, at every level",
+			description: "From faster rollouts to centralized communication, we reduce friction across every line of service. You see better outcomes—with less day-to-day involvement."
 		}
 	];
 </script>
@@ -92,7 +92,8 @@
 
 <!-- CTA Section -->
 <CallToAction
-	title="Ready to collaborate?"
-	subtitle="Let's create something amazing"
-	description="Join the companies already leveraging our expertise to transform their digital presence and achieve their business goals."
+	title="Stop chasing vendors"
+	subtitle="Start scaling smoothly"
+	description="Let's make your operations simpler, safer, and ready to grow. Join operations teams who've eliminated service gaps and compliance risks with unified facility management."
+	imageSrc="/generated/image-a-professional-operations-manager-stands.webp"
 />
