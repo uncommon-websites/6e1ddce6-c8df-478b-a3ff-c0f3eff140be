@@ -26,60 +26,69 @@
 />
 
 <Summary
-	generating
-	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	title="One provider. Every site covered."
+	text="Managing multiple sites shouldn't mean juggling dozens of vendors. Our platform brings hygiene, safety, and compliance services under one roof—so you can focus on running your business, not chasing checklists. From offices to warehouses to retail chains, we help operations teams standardize cleanliness, reduce compliance risk, and avoid the costly surprises that come with fragmented service providers."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Maxine Teo",
+			position: "Director of Facilities",
+			company: "HarborPoint Medical Group",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"We reduced vendor-related incidents by 40% and cut weekly update meetings in half. The real-time visibility across all our medical facilities has been transformative.",
+			image: "/generated/image-a-professional-asian-woman-smiles-confid.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Darnell Okafor",
+			position: "Regional Operations Manager",
+			company: "Simtra Retail Holdings",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Company gave us instant oversight across 87 locations—we finally stopped flying blind. Compliance tracking that used to take days now happens in minutes.",
+			image: "/generated/image-a-professional-black-man-in-business-att.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Lina Chavez",
+			position: "VP of Campus Services",
+			company: "MetroEd Facilities Group",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"We consolidated 8 vendors into 1 and saved over $120,000 in the first year alone. The streamlined operations freed up our team to focus on strategic initiatives.",
+			image: "/generated/image-a-professional-latina-woman-stands-in-a-.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Complete facility management solution"
+	subtitle="Everything you need to maintain consistent hygiene standards across all your locations"
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "Unified service delivery",
+			description: "One partner manages all your hygiene services across every location. No more juggling multiple vendors or dealing with inconsistent service quality.",
+			imageSrc: "/generated/image-a-contemporary-commercial-building-lobby.webp"
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "Real-time compliance tracking",
+			description: "Monitor safety and hygiene standards across all sites instantly. Get immediate alerts when issues arise, preventing potential violations before they impact your business.",
+			imageSrc: "/generated/image-a-team-of-professionals-gathered-around-.webp"
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Rapid deployment at scale",
+			description: "Launch comprehensive hygiene programs at new locations within days, not weeks. Our proven deployment process ensures consistent standards from day one."
+		},
+		{
+			title: "24/7 operational visibility",
+			description: "See exactly what's happening at every location through our centralized dashboard. Track service completion, compliance scores, and performance metrics in real-time."
+		},
+		{
+			title: "Multi-service expertise",
+			description: "From deep cleaning to waste management, we handle every aspect of facility hygiene under one contract. Streamline your vendor relationships and reduce administrative overhead."
+		},
+		{
+			title: "Proactive issue resolution",
+			description: "Our intelligent monitoring system identifies potential problems before they become costly violations. Automatic escalation ensures critical issues receive immediate attention.",
+			imageSrc: "/generated/image-a-professional-cleaning-crew-in-uniforms.webp"
 		}
 	]}
 />
