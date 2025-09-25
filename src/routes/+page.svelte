@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Facility services that actually scale"
+	subtitle="One partner. Every location. Always on time."
+	imageSrc="/generated/image-a-professional-operations-manager-stands.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/hilton.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/starbucks.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/marriott.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/target.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
