@@ -10,8 +10,8 @@
 </script>
 
 <Hero
-	title="Facility services that actually scale"
-	subtitle="One partner. Every location. Always on time."
+	title="One partner for safer, cleaner spaces"
+	subtitle="Plenar brings fire safety, hygiene, and essential building services under one contract—so you can focus on running safer, smarter facilities."
 	imageSrc="/generated/image-a-professional-operations-manager-stands.webp"
 	centered={false}
 />
@@ -26,10 +26,10 @@
 />
 
 <Summary
-	title="One provider. Every site covered."
-	text="Managing multiple locations shouldn't mean juggling multiple vendors. We simplify operations by delivering hygiene, safety, and compliance services through one centralized partner—so you can focus on running your business, not chasing contractors.
+	title="One provider. Every service. Every site covered."
+	text="Managing multiple locations shouldn't mean juggling multiple vendors. Plenar simplifies operations by delivering fire safety, hygiene, pest control, and maintenance services through one centralized partner—so you can focus on running your business, not chasing contractors.
 
-We partner with office, retail, and warehouse teams to standardize cleanliness, increase compliance, and reduce risk—helping you maintain your standards while avoiding unnecessary costs and surprises."
+We partner with office, retail, healthcare, and warehouse teams to standardize safety protocols, maintain cleanliness standards, and ensure regulatory compliance—helping you protect your operations while reducing vendor complexity and administrative overhead."
 />
 
 <Testimonials
@@ -39,7 +39,7 @@ We partner with office, retail, and warehouse teams to standardize cleanliness, 
 			position: "Director of Facilities",
 			company: "HarborPoint Medical Group",
 			quote:
-				"We reduced vendor-related incidents by 40% and cut weekly update meetings in half. Having one partner manage everything across our 23 facilities has been transformational.",
+				"Plenar consolidated our fire safety, hygiene, and pest control under one contract. We reduced vendor-related incidents by 40% and cut weekly update meetings in half across our 23 facilities.",
 			image: "/generated/image-confident-asian-woman-in-business-attire.webp"
 		},
 		{
@@ -47,7 +47,7 @@ We partner with office, retail, and warehouse teams to standardize cleanliness, 
 			position: "Regional Operations Manager",
 			company: "Simtra Retail Holdings",
 			quote:
-				"Company gave us instant oversight across 87 locations—we finally stopped flying blind. Real-time compliance tracking means we catch issues before they become problems.",
+				"From fire alarm testing to washroom maintenance, Plenar gives us instant oversight across 87 locations. Real-time compliance tracking means we catch issues before they become problems.",
 			image: "/generated/image-trustworthy-black-man-dressed-profession.webp"
 		},
 		{
@@ -55,47 +55,47 @@ We partner with office, retail, and warehouse teams to standardize cleanliness, 
 			position: "VP of Campus Services",
 			company: "MetroEd Facilities Group",
 			quote:
-				"We consolidated 8 vendors into 1 and saved over $120,000 in the first year alone. The streamlined communication and consistent service quality has been incredible.",
+				"We consolidated 8 different service providers into 1 with Plenar and saved over $120,000 in the first year. Having fire safety, hygiene, and maintenance coordinated through one partner has been transformational.",
 			image: "/generated/image-authoritative-latina-woman-in-elegant-bu.webp"
 		}
 	]}
 />
 
 <Features
-	title="Built for operations at scale"
-	subtitle="Everything you need to maintain consistent hygiene standards across all your locations"
+	title="Complete facility services under one contract"
+	subtitle="From fire safety to hygiene management, we deliver consistent standards across all your locations"
 	features={[
 		{
-			title: "Real-time compliance monitoring",
-			description: "Track hygiene standards across all locations instantly with automated reporting and alerts that keep you ahead of compliance issues.",
+			title: "Fire safety compliance and monitoring",
+			description: "Comprehensive fire protection services including alarm testing, extinguisher maintenance, and emergency lighting checks. Stay audit-ready with automated compliance tracking and immediate alerts for any safety issues across all locations.",
+			imageSrc: "/generated/image-a-professional-fire-safety-technician-in.webp"
+		},
+		{
+			title: "Commercial hygiene and washroom services", 
+			description: "Professional washroom maintenance, waste management, and hygiene supply services designed for high-traffic commercial environments. Maintain consistent cleanliness standards that protect your brand reputation and employee satisfaction.",
+			imageSrc: "/generated/image-a-commercial-cleaning-professional-in-a-.webp"
+		},
+		{
+			title: "Integrated pest control programs",
+			description: "Proactive pest monitoring and treatment programs tailored to your industry requirements. Prevent infestations before they start with regular inspections, targeted treatments, and detailed reporting across all sites.",
+			imageSrc: "/generated/image-a-professional-pest-control-specialist-i.webp"
+		},
+		{
+			title: "Preventive maintenance scheduling",
+			description: "Scheduled maintenance programs that prevent costly breakdowns and extend equipment life. Our predictive approach reduces emergency repairs and keeps your facilities running smoothly with minimal disruption.",
+			imageSrc: "/generated/image-a-diverse-facility-maintenance-team-work.webp"
+		},
+		{
+			title: "Real-time compliance tracking and reporting",
+			description: "Centralized dashboard providing instant visibility into compliance status, service completion, and audit readiness across all locations. Generate comprehensive reports for stakeholders and regulatory requirements with one click.",
 			imageSrc: "/generated/image-an-operations-manager-in-a-modern-office.webp"
 		},
 		{
-			title: "Unified multi-site coordination", 
-			description: "Eliminate fragmented communication with a single platform that connects all your facilities and service teams seamlessly.",
-			imageSrc: "/generated/image-a-diverse-professional-team-communicatin.webp"
-		},
-		{
-			title: "Rapid deployment system",
-			description: "Get new locations operational in hours, not weeks, with our proven deployment process that scales to thousands of sites.",
-			imageSrc: "/generated/image-staff-members-quickly-setting-up-hygiene.webp"
-		},
-		{
-			title: "Integrated service umbrella",
-			description: "Manage multiple service lines through one partner, reducing vendor complexity while maintaining consistent quality standards.",
-			imageSrc: "/generated/image-a-cohesive-facility-services-team-workin.webp"
-		},
-		{
-			title: "Proactive risk mitigation",
-			description: "Identify and address potential issues before they impact operations with predictive monitoring and immediate response protocols.",
-			imageSrc: "/generated/image-employees-performing-safety-checks-and-r.webp"
-		},
-		{
-			title: "Revenue protection analytics",
-			description: "Prevent revenue loss from compliance failures and facility issues with data-driven insights that protect your bottom line.",
-			imageSrc: "/generated/image-a-group-of-business-professionals-gather.webp"
+			title: "Multi-site service coordination",
+			description: "Seamless coordination of all facility services through a single point of contact and unified management system. Scale operations efficiently while maintaining consistent service quality and reducing administrative overhead.",
+			imageSrc: "/generated/image-a-facility-services-coordinator-in-a-bri.webp"
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction />

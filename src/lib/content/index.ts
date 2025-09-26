@@ -1,8 +1,8 @@
 export const CONFIG = {
-	companyName: "HygieneFlow",
-	description: "Complete hygiene solutions for multi-site commercial facilities. Streamline operations, ensure compliance, and maintain consistent safety standards across all your locations with our rapidly deployable service platform.",
+	companyName: "Plenar",
+	description: "Complete facility services for multi-site commercial real estate. From fire safety to hygiene solutions, we streamline operations, ensure compliance, and maintain consistent standards across all your locations with our rapidly deployable service platform.",
 	image: "/og.png",
-	url: "https://hygieneflow.com",
+	url: "https://plenar.com",
 	fontFamily: "Poppins Variable",
 	
 	// Brand Colors - Method + Headspace Inspired Palette
