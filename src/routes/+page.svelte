@@ -26,60 +26,74 @@
 />
 
 <Summary
-	generating
-	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	title="One provider. Every site covered."
+	text="Managing multiple locations shouldn't mean juggling multiple vendors. We simplify operations by delivering hygiene, safety, and compliance services through one centralized partner—so you can focus on running your business, not chasing contractors.
+
+We partner with office, retail, and warehouse teams to standardize cleanliness, increase compliance, and reduce risk—helping you maintain your standards while avoiding unnecessary costs and surprises."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Maxine Teo",
+			position: "Director of Facilities",
+			company: "HarborPoint Medical Group",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"We reduced vendor-related incidents by 40% and cut weekly update meetings in half. Having one partner manage everything across our 23 facilities has been transformational.",
+			image: "/generated/image-confident-asian-woman-in-business-attire.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Darnell Okafor",
+			position: "Regional Operations Manager",
+			company: "Simtra Retail Holdings",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Company gave us instant oversight across 87 locations—we finally stopped flying blind. Real-time compliance tracking means we catch issues before they become problems.",
+			image: "/generated/image-trustworthy-black-man-dressed-profession.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Lina Chavez",
+			position: "VP of Campus Services",
+			company: "MetroEd Facilities Group",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"We consolidated 8 vendors into 1 and saved over $120,000 in the first year alone. The streamlined communication and consistent service quality has been incredible.",
+			image: "/generated/image-authoritative-latina-woman-in-elegant-bu.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Built for operations at scale"
+	subtitle="Everything you need to maintain consistent hygiene standards across all your locations"
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "Real-time compliance monitoring",
+			description: "Track hygiene standards across all locations instantly with automated reporting and alerts that keep you ahead of compliance issues.",
+			imageSrc: "/generated/image-an-operations-manager-in-a-modern-office.webp"
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "Unified multi-site coordination", 
+			description: "Eliminate fragmented communication with a single platform that connects all your facilities and service teams seamlessly.",
+			imageSrc: "/generated/image-a-diverse-professional-team-communicatin.webp"
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Rapid deployment system",
+			description: "Get new locations operational in hours, not weeks, with our proven deployment process that scales to thousands of sites.",
+			imageSrc: "/generated/image-staff-members-quickly-setting-up-hygiene.webp"
+		},
+		{
+			title: "Integrated service umbrella",
+			description: "Manage multiple service lines through one partner, reducing vendor complexity while maintaining consistent quality standards.",
+			imageSrc: "/generated/image-a-cohesive-facility-services-team-workin.webp"
+		},
+		{
+			title: "Proactive risk mitigation",
+			description: "Identify and address potential issues before they impact operations with predictive monitoring and immediate response protocols.",
+			imageSrc: "/generated/image-employees-performing-safety-checks-and-r.webp"
+		},
+		{
+			title: "Revenue protection analytics",
+			description: "Prevent revenue loss from compliance failures and facility issues with data-driven insights that protect your bottom line.",
+			imageSrc: "/generated/image-a-group-of-business-professionals-gather.webp"
 		}
 	]}
 />
