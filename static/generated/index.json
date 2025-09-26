@@ -4,6 +4,7 @@
     "filename": "/generated/image-a-professional-operations-manager-stands.webp"
   },
   {
+<<<<<<< HEAD
     "prompt": "Confident Asian woman in business attire, standing in a modern office lobby with natural light, plants, and subtle architectural details. She has a warm, professional smile and an approachable demeanor. Diverse colleagues and visitors move about in the background, creating a dynamic but focused atmosphere.",
     "filename": "/generated/image-confident-asian-woman-in-business-attire.webp"
   },
@@ -38,5 +39,25 @@
   {
     "prompt": "A commercial cleaning professional in a modern office building, carefully wiping down a glass surface. The scene is bathed in gentle morning light, highlighting the pristine, organized environment. The professional appears focused and competent, with authentic body language. Architectural lines and negative space are used to create a sense of calm and order, while subtle violet and emerald accents appear through shadows and indoor plants. The overall mood is one of quiet confidence, care, and modern professionalism.",
     "filename": "/generated/image-a-commercial-cleaning-professional-in-a-.webp"
+=======
+    "prompt": "A contemporary commercial building lobby with a bright, welcoming atmosphere. Polished floors, modern furnishings, large windows letting in natural light, and potted plants. People are walking through the lobby, some chatting, others waiting. Cleanliness and order are evident throughout the space.",
+    "filename": "/generated/image-a-contemporary-commercial-building-lobby.webp"
+  },
+  {
+    "prompt": "A professional cleaning crew in uniforms actively working in a busy office environment. Some are vacuuming carpets, others wiping down surfaces or emptying bins. Office workers are present, going about their day. The setting features desks, chairs, indoor plants, and large windows, with a clean and organized vibe.",
+    "filename": "/generated/image-a-professional-cleaning-crew-in-uniforms.webp"
+  },
+  {
+    "prompt": "A team of professionals gathered around a table in a well-lit, modern meeting room. They are reviewing printed charts and discussing facility management topics. The room features glass walls, comfortable chairs, and a tidy, professional ambiance. No digital screens or text are visible.",
+    "filename": "/generated/image-a-team-of-professionals-gathered-around-.webp"
+  },
+  {
+    "prompt": "A diverse group of professionals engaged in a collaborative discussion around a large meeting table in a modern, sunlit office meeting room. The team members are of varying ages, genders, and ethnicities, dressed in smart-casual business attire. The environment features natural wood accents, large windows with city views, potted plants, and comfortable seating. The table is scattered with notebooks, paper documents, and coffee mugs. Some people are standing, some are seated, actively gesturing or listening, creating a lively, engaged atmosphere.",
+    "filename": "/generated/image-a-diverse-group-of-professionals-engaged.webp"
+  },
+  {
+    "prompt": "A professional operations manager stands in a clean, modern commercial building, attentively reviewing facility information. The setting features large windows, natural lighting, minimalist decor, and subtle industrial elements like exposed beams or polished concrete floors. The manager is dressed in smart business attire, holding a clipboard or paper documents instead of any tech device. In the background, there are hints of activity with other staff or people moving through the space, contributing to a dynamic yet professional atmosphere.",
+    "filename": "/generated/image-a-professional-operations-manager-stands.webp"
+>>>>>>> b3fb28c0d3ba74fa650dee51bdd4123e250c6452
   }
 ]

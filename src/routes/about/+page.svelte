@@ -11,44 +11,40 @@
 	// Constants
 	const values = [
 		{
-			title: "Innovation",
-			description: "Constantly challenging the status quo to create better solutions."
+			title: "Built for trust",
+			description: "We show up when we say we will. Whether it's scheduled service or an unplanned request, our teams deliver with precision and care—so you don't have to follow up twice."
 		},
 		{
-			title: "Integrity",
-			description: "Building trust through transparent actions and honest communication."
+			title: "Compliance is second nature",
+			description: "With real-time tracking, standardized protocols, and trained teams, we make it easy to keep every location inspection-ready while freeing your team from manual oversight."
 		},
 		{
-			title: "Impact",
-			description: "Measuring our success by the positive change we create for our clients."
+			title: "Efficiency, at every level",
+			description: "From faster rollouts to centralized communication, we reduce friction across every line of service. You see better outcomes—with less day-to-day involvement."
 		}
 	];
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	title="Making safety simple"
+	subtitle="One provider for every site"
+	imageSrc="/generated/image-a-diverse-group-of-professionals-engaged.webp"
 />
 
 <!-- Story Section -->
 <Story
-	generating
 	paragraphs={[
-		"We started in 2018 with a simple goal: make helpful tech that people actually need. While many chase profits, we chose to do things differently.",
-		"Beyond making good products, we care about doing the right thing, being kind to our planet, and making sure everyone can use what we build. That's our compass.",
-		"From day one, we've asked ourselves: 'Does this actually help people?' This question gets us through tough calls and shapes who we are. We're playing the long game here.",
-		"We think about how our work affects real people's lives. We build tech that brings people together, keeps your information safe, and treats everyone fairly. When we stick to these basics, good things happen."
+		"Most operations teams are stuck with disconnected service partners, poor reporting, and constant surprises. That leads to gaps in safety, compliance failures, and unnecessary risk exposure. We built Company because managing hygiene and compliance across multiple locations shouldn't feel impossible—and because we understood that operations managers needed a partner who truly gets the pressure of keeping every site safe and compliant.",
+		"We took a different approach: instead of adding another vendor to your list, we became the one partner that consolidates everything. We built unified service management that gives you real-time visibility, standardized execution, and rapid deployment capabilities. From our first contract to our ten-thousandth, we've refined our process to eliminate the chaos of juggling multiple providers while ensuring consistent quality across every location you manage.",
+		"Today, operations teams across healthcare, retail, logistics, and property management trust us to keep their facilities running smoothly. We've transformed the $600B hygiene services market by proving that you don't have to choose between comprehensive coverage and operational simplicity. When you partner with Company, you get both—plus the peace of mind that comes from never having to scramble again."
 	]}
 />
 
 <!-- Our Culture Section -->
-<Culture {values} generating />
+<Culture {values} />
 
 <!-- StakeholderGrid Section -->
 <StakeholderGrid
-	generating
 	stakeholderType="team"
 	title="Our team."
 	subtitle="Your partners in innovation."
@@ -75,7 +71,6 @@
 />
 
 <StakeholderGrid
-	generating
 	stakeholderType="investor"
 	title="Backed by the best."
 	subtitle="Point Nine, TSIC and others"
@@ -97,8 +92,8 @@
 
 <!-- CTA Section -->
 <CallToAction
-	generating
-	title="Ready to collaborate?"
-	subtitle="Let's create something amazing"
-	description="Join the companies already leveraging our expertise to transform their digital presence and achieve their business goals."
+	title="Stop chasing vendors"
+	subtitle="Start scaling smoothly"
+	description="Let's make your operations simpler, safer, and ready to grow. Join operations teams who've eliminated service gaps and compliance risks with unified facility management."
+	imageSrc="/generated/image-a-professional-operations-manager-stands.webp"
 />
